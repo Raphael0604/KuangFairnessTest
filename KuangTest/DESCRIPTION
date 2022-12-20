@@ -1,0 +1,13 @@
+Package: KuangTest
+Type: Package
+Title: Runs Test and Fairness Test
+Version: 1.0.1
+Date: 2022-12-18
+Author: Zhuodiao Kuang
+Maintainer: Zhuodiao Kuang <2019202274@ruc.edu.cn>
+Description: Runs tests for 0-1 series and series with a given median. Runs tests for 1-n series with repetition, which is designed to judge the fairness of ranks.
+License: GPL-3
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.2.3
+Encoding: UTF-8
